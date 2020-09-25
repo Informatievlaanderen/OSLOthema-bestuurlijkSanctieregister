@@ -1,5 +1,45 @@
 {% extends "ap2.j2" %}
 
 {% block summary %}
-<p>Vul hier een samenvatting van mijn applicatieprofiel in.</p>
+
+<p>
+	Het <a href="https://overheid.vlaanderen.be/kaderdecreet-bestuurlijke-handhaving-kbh">Kaderdecreet Bestuurlijke Handhaving (2019)<a>
+	voorziet in de ontwikkeling van een informatiesysteem om bestuurlijke sancties te verzamelen, 
+	zodat deze informatie geraadpleegd kan worden door verschillende organisaties en diensten, en dit over de verschillende overheidsniveaus heen.
+	Deze semantische datastandaard beschrijft een informatiemodel dat aan de basis kan liggen van een dergelijk Bestuurlijk Sanctieregister.
+</p>
+
+<p>
+	Het Gepleegd Feit omschrijft de handelingen of nalatigheden van een overtreder, waarbij een zekere Rechtsbron wordt overtreden.
+	Deze overtreder kan zowel een Geregistreerde Persoon als een Geregistreerde Organisatie betreffen.
+</p>
+
+<p>
+	Naast de relevante persoons- en organisatiegegevens van de overtreder, structureert men ook informatie over de Locatie van het Gepleegd Feit.
+	Deze kan verschillende vormen aannemen naargelang de specifieke context. Zo worden locatiegegevens van Adressen, Percelen, Gebouweenheden en 
+	Wegsegementen gestructureerd bijgehouden. Daarnaast heeft men ook de mogelijkheid om de Locatie via geografische coördinaten of via een vrij tekstveld te capteren.
+</p>
+
+<p>
+	Over het Gepleegd Feit wordt een Bestuurlijke Beslissing genomen door een Geregistreerde Organisatie.
+	Dit omvat een tekstuele beschrijving en motivering van de beslissing, alsook de datum waarop deze beslissing werd uitgesproken. 
+	De Beslissingen van de Toezichthouder, Vervolgingsinstantie en Beboetingsinstantie modelleren we uit in meer detail.
+</p>
+
+<p>
+	De Beslissingen van de Toezichthouder vallen uiteen in de Onmiddellijke Inning, de Consignatie en de Inhouding.
+</p>
+
+<p>
+	De Beslissingen van de Vervolgingsinstantie betreffen de Beslissing (1) tot Vervolging, (2) tot Alternatieve Procedure, (3) tot Opsporingsonderzoek en (4) tot Sepot.
+	Die eerste kan leiden tot een Voorstel tot Betaling van een Geldsom, dan wel tot een Beslissing van de Beboetingsinstantie. De tweede beslissing leidt tot een Alternatieve Sanctie.
+</p>
+
+<p>
+	Ten slotte, kan de Beslissing van de Beboetingsinstantie een Bestuurlijke Sanctie opleggen.
+	Deze bevat een beschrijving van de Sanctie en een verwijzing naar de Rechtsbron op basis waarvan gesanctioneerd wordt.
+	De Bestuurlijke Sanctie valt uiteen in een Hoofdsanctie, Facultatieve Sanctie (en Alternatieve Sanctie).
+	Die eerste betreft steeds een Geldboete, terwijl die tweede uiteen valt in Uitsluiting van Steun en Verbeurdverklaring.
+</p>
+
 {% endblock %}
