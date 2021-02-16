@@ -9,3 +9,17 @@
   - Betrokkene i.p.v. overtreder. 
   - Definitie Beslissing tot Alternatieve procedure en Alternatieve Sanctie aangepast. 
   - Definitie Onmiddellijke Inning aangepast. 
+  
+2021-02-16
+  - gebruiksnota toegevoegd aan het type van het Gepleegd Feit 
+  - thema van het Gepleegd Feit verwijderd
+  - periode toegevoegd aan Gepleegd Feit
+  - XOR constraint op datum en periode toegevoegd aan Gepleegd Feit
+  - gebruiksnota toegevoegd aan datum van Gepleegd Feit
+  - associatie {GepleegdFeit gerelateerd GepleegdFeit} toegevoegd
+  - betalingsstatussen gealigneerd
+  - bedrag optioneel toegevoegd aan Verbeurdverklaring
+  - Stuk toegevoegd en bijhorende genereert associatie (en subklassering van Beslissingsactiviteit bij BestuurlijkeBeslissing)
+  - subklassering van Activiteit bij GepleegdFeit verwijderd
+  - type van de BeslissingBoeteinstantie vervangen door resultaat (alignering met OSLO Besluitvorming)
+  - klasse BeslissingBeroepsinstantie toegevoegd met bijhorende eigenschap en associaties
