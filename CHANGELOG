@@ -20,6 +20,6 @@
   - betalingsstatussen gealigneerd
   - bedrag optioneel toegevoegd aan Verbeurdverklaring
   - Stuk toegevoegd en bijhorende genereert associatie (en subklassering van Beslissingsactiviteit bij BestuurlijkeBeslissing)
-  - subklassering van Activiteit bij GepleegdFeit verwijderd
+  - subklassering van Activiteit bij GepleegdFeit verwijderd (met het oog op een mogelijke toekomstige alignering met OSLO-Dossier)
   - type van de BeslissingBoeteinstantie vervangen door resultaat (alignering met OSLO Besluitvorming)
-  - klasse BeslissingBeroepsinstantie toegevoegd met bijhorende eigenschap en associaties
+  - klassen Beroep en BeslissingBeroepsinstantie toegevoegd met bijhorende eigenschappen en associaties
