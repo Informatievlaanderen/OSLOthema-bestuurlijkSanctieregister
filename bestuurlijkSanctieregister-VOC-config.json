@@ -1,5 +1,5 @@
 {
-  "naam": "Vocabularium bestuurlijk sanctieregister",
+  "naam": "Vocabularium Bestuurlijke Sancties",
   "rapport": "",
   "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
   "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO002949",
@@ -10,7 +10,7 @@
   "specificatiedocument": [
     {
       "naam": "Vocabularium",
-      "waarde": "https://data.vlaanderen.be/ns/bestuurlijk-sanctieregister"
+      "waarde": "https://data.vlaanderen.be/ns/bestuurlijke-sancties"
     }
   ],
   "documentatie": [],
