@@ -3,7 +3,7 @@
   "name": "bestuurlijk-sanctieregister-ap",
   "type": "ap",
   "eap": "BestuurlijkSanctieregister-AP.eap",
-  "diagram": "OSLO-Sanctie",
+  "diagram": "OSLO-BestuurlijkSanctieregister",
   "template": "bestuurlijk-sanctieregister-ap.j2",
   "title": "Bestuurlijk Sanctieregister (Applicatieprofiel)",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
