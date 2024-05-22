@@ -3,14 +3,14 @@
   "rapport": "",
   "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
   "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO002949",
-  "publicatiedatum": "TBD",
-  "type_toepassing": "TBD",
+  "publicatiedatum": "2022-06-23",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium",
   "beschrijving": "voc-bestuurlijksanctieregister.md",
   "specificatiedocument": [
     {
       "naam": "Vocabularium",
-      "waarde": "https://data.vlaanderen.be/doc/vocabularium/bestuurlijke-sancties/kandidaatstandaard/2022-06-23/"
+      "waarde": "https://data.vlaanderen.be/doc/vocabularium/bestuurlijke-sancties/"
     }
   ],
   "documentatie": [],
