@@ -9,11 +9,16 @@
   "beschrijving": "ap-bestuurlijksanctieregister.md",
   "specificatiedocument": [
     {
-      "naam": "Applicatieprofiel",
+      "naam": "Applicatieprofiel Bestuurlijk Sanctieregister",
       "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/bestuurlijk-sanctieregister"
     }
   ],
-  "documentatie": [],
+  "documentatie": [
+    {
+        "naam": "Vocabularium Bestuurlijke Sanctieregister",
+        "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/bestuurlijke-sancties"
+    }
+  ],
   "charter": [
     {
       "naam": "Charter OSLO Bestuurlijk Sanctieregister",
