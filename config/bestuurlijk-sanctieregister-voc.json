@@ -5,7 +5,7 @@
   "eap": "BestuurlijkSanctieregister-AP.eap",
   "diagram": "OSLO-BestuurlijkSanctieregister",
   "template": "bestuurlijk-sanctieregister-voc.j2",
-  "title": "Bestuurlijk Sanctieregister (Vocabularium)",
+  "title": "Vocabularium Bestuurlijk Sanctieregister",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
   "publication-date": "2022-06-23",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
