@@ -9,11 +9,16 @@
   "beschrijving": "voc-bestuurlijksanctieregister.md",
   "specificatiedocument": [
     {
-      "naam": "Vocabularium",
-      "waarde": "https://data.vlaanderen.be/doc/vocabularium/bestuurlijke-sancties/"
+      "naam": "Vocabularium Bestuurlijke Sancties",
+      "waarde": "https://data.vlaanderen.be/ns/bestuurlijke-sancties/"
     }
   ],
-  "documentatie": [],
+  "documentatie": [
+    {
+      "naam": "Applicatieprofiel Bestuurlijke Sancties",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/bestuurlijke-sancties/"
+    }
+  ],
   "charter": [
     {
       "naam": "Charter OSLO Bestuurlijk Sanctieregister",
