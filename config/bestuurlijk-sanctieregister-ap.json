@@ -13,6 +13,6 @@
   "contributors-column": "BestuurlijkSanctieregister",
   "site": "site-skeleton/bestuurlijk-sanctieregister-ap",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-bestuurlijkSanctieregister/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-bestuurlijk-sanctieregister.html"
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/applicatieprofiel-bestuurlijk-sanctieregister/"
 }
 ]
