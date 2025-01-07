@@ -20,7 +20,7 @@
   "documentation": [
     {
       "name": "Vocabularium Bestuurlijke Sanctieregister",
-      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/bestuurlijke-sancties"
+      "resourceReference": "https://data.vlaanderen.be/standaarden/vocabularium-bestuurlijke-sancties"
     }
   ],
   "reports": [
