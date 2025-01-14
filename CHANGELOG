@@ -23,3 +23,8 @@
   - subklassering van Activiteit bij GepleegdFeit verwijderd (met het oog op een mogelijke toekomstige alignering met OSLO-Dossier)
   - type van de BeslissingBoeteinstantie vervangen door resultaat (alignering met OSLO Besluitvorming)
   - klassen Beroep en BeslissingBeroepsinstantie toegevoegd met bijhorende eigenschappen en associaties
+
+  2025-01-14
+  - Added definition to datumBetaling of class OnmiddelijkeInning
+  - Added definition to datumBetaling of class BestuurlijkeGeldboete
+  - Added definition to datumBetaling of class VervalSanctiemogelijkheidDoorBetalingGeldsom
