@@ -32,3 +32,5 @@
   - Added definition to bedrag of class Verbeurdverklaring
   - Added definition to bedrag of class BestuurlijkeGeldboete
   - Added definition to bedrag of class VervalSanctiemogelijkheidDoorBetalingGeldsom
+  - Added definition to rechtsbron of class BestuurlijkeSanctie
+  - Added definition to uitstelperiode of class BestuurlijkeSanctie
