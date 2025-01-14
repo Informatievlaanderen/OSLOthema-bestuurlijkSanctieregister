@@ -28,3 +28,7 @@
   - Added definition to datumBetaling of class OnmiddelijkeInning
   - Added definition to datumBetaling of class BestuurlijkeGeldboete
   - Added definition to datumBetaling of class VervalSanctiemogelijkheidDoorBetalingGeldsom
+  - Added definition to bedrag of class OnmiddelijkeInning
+  - Added definition to bedrag of class Verbeurdverklaring
+  - Added definition to bedrag of class BestuurlijkeGeldboete
+  - Added definition to bedrag of class VervalSanctiemogelijkheidDoorBetalingGeldsom
